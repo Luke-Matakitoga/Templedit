@@ -1,3 +1,5 @@
+// 0% of this code was written using GenAI
+
 class templedit{
     constructor(cellsX, cellsY, pixelsPerCell){
         this.cellsX = cellsX;
